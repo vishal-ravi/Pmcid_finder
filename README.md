@@ -1,5 +1,3 @@
-Sure, here's an example of a README file for your PMCID Finder Python program:
-
 # PMCID Finder Python Program
 
 A Python program that checks if a PubMed ID (PMID) has a corresponding PubMed Central Identifier (PMCID) available.
